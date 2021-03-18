@@ -1,8 +1,8 @@
 [
   {
     "name": "19福利导航",
-    "url": "https://19dh.xyz",
-    "icon": "https://favicons.githubusercontent.com/19dh.xyz",
+    "url": "https://19dh.space",
+    "icon": "https://favicons.githubusercontent.com/19dh.space",
     "slug": "19",
     "status": "up",
     "uptime": "100.00%",
@@ -10,11 +10,29 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 728,
-    "timeDay": 969,
-    "timeWeek": 728,
-    "timeMonth": 728,
-    "timeYear": 728,
+    "time": 731,
+    "timeDay": 864,
+    "timeWeek": 731,
+    "timeMonth": 731,
+    "timeYear": 731,
+    "dailyMinutesDown": {}
+  },
+  {
+    "name": "19福利导航_xyz",
+    "url": "https://19dh.xyz",
+    "icon": "https://favicons.githubusercontent.com/19dh.xyz",
+    "slug": "19-xyz",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 702,
+    "timeDay": 702,
+    "timeWeek": 702,
+    "timeMonth": 702,
+    "timeYear": 702,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +46,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 539,
-    "timeDay": 834,
-    "timeWeek": 539,
-    "timeMonth": 539,
-    "timeYear": 539,
+    "time": 561,
+    "timeDay": 785,
+    "timeWeek": 561,
+    "timeMonth": 561,
+    "timeYear": 561,
     "dailyMinutesDown": {}
   }
 ]
