@@ -5,6 +5,8 @@ repo: upptime # Your GitHub repository name
 # Add your sites here
 sites:
   - name: 19福利导航
+    url: https://19dh.space
+  - name: 19福利导航_xyz
     url: https://19dh.xyz
   - name: 19福利导航_main
     url: https://19dh.vip
